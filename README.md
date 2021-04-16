@@ -1,9 +1,6 @@
-# eletroPonto
-EletroPonto - Sistema web para ponto eletrônico - LARAVEL
+## Installation
 
-## 1. Installation
-
-1. Go to the folder application using cd command on your cmd or terminal
+Go to the folder application using cd command on your cmd or terminal
 
     ```
     composer install
@@ -21,26 +18,4 @@ EletroPonto - Sistema web para ponto eletrônico - LARAVEL
     ``` 
     ```
     php artisan serve
-    ```  
- 
-2. Default USERS
-
-    ```
-    Colaborador
-    login: teste@teste.com
-    pass:  teste
-    ```
-    ```
-    Administrador
-    login: admin@teste.com
-    pass:  teste
-    ```
-    
-## 2. To do
-```
-    Refactor:
-    - CSS;
-    - User Interface;
-    - Code?!;
-    - New features?
-```
+    ``` 
